@@ -1,6 +1,6 @@
 git init
 git add .
-git commit -m "Yss"
+git commit -m "Ys"
 git remote add origin https://github.com/Anilkumarg22/terraform.git
 git push -u origin main
 git push origin main
